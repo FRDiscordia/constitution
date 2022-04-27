@@ -1,6 +1,6 @@
 # Constitution of The Federal Republic of Discordia
 
-## Article 1
+## Article I
 
 The legislative power shall be vested into two house: the House of Representatives and the Senate.
 
@@ -28,12 +28,18 @@ The Vice President will be the Speaker of the Senate, but will have no vote, unl
 
 The Senate shall choose its officers, and a Speaker pro tempore, who shall serve as the Speaker when the Vice Presdient is not present.
 
-The Senate shall have the power to try all impeachment, and when they are sitting for this purpose, they shall do so under oath. When the President or Vice President are being tried, the Chief Justice of the FRD will preside. Conviction by the Senate will result in the removal of the officer from office. On conviction, the Senate may also 
-## Article 2
+The Senate shall have the power to try all impeachment, and when they are sitting for this purpose, they shall do so under oath. When the President or Vice President are being tried, the Chief Justice of the FRD will preside. With 2/3rds concurrence of all senators, the officer will be convicted. Conviction by the Senate will result in the removal of the officer from office. On conviction, the Senate may also choose to disqualify the officer from being able to again hold federal office.
+
+### Section 3
+
+
+
+
+## Article II
 
 reserved for executive
 
-## Article 3
+## Article III
 
 The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term, and will serve during good behaviour. Each justice will be nominated by the President, then confirmed by 2/3rds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a justice. The President must appoint a new justice no later than 5 days before a justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
 
