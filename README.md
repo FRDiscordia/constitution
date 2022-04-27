@@ -32,7 +32,45 @@ The Senate shall have the power to try all impeachment, and when they are sittin
 
 ### Section 3
 
+The manner in which elections be conducted shall be decided by the States and the legislatures therein, granted that these elections do not violate any other provision of this constitution.
 
+Congress shall meet at least once a week on Wednesday, or another day as prescribed by law or resolution.
+
+### Section 4
+
+Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
+
+Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.
+
+Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
+
+Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting. 
+
+### Section 5
+
+No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the FRD, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under the FRD, shall be a Member of either House during his Continuance in Office. 
+
+### Section 6
+
+Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the FRD; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within 5 Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+
+Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the FRD; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill. 
+
+### Section 7
+
+powers of congress
+
+### Section 8
+
+The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
+
+No Bill of Attainder or ex post facto Law shall be passed.
+
+No Title of Nobility shall be granted by the FRD: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State. 
+
+### Section 9
+
+things the states cannot do
 
 
 ## Article II
