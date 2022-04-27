@@ -48,3 +48,11 @@ The 1st Associate Justice will serve 4 weeks, the 2nd for 8 weeks, and the 1st C
 The judicial power will have the power to decide cases brought to it pertaining to federal law, questions regarding this Constitution, interstate conflicts, and cases referred to it by state governments.
 
 Congress shall have to power to create lesser courts, subject to the same limitations of this judicial power.
+
+## Article IV.
+
+...
+
+## Article V.
+
+The Congress, whenever two thirds of both houses shall deem it necessary, shall propose amendments to this Constitution, or, on the application of the legislatures of two thirds of the several states, shall call a convention for proposing amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by the legislatures of three fourths of the several states, or by conventions in three fourths thereof, as the one or the other mode of ratification may be proposed by the Congress; and that no state, without its consent, shall be deprived of its equal suffrage in the Senate.
