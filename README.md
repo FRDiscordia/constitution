@@ -6,7 +6,7 @@ The legislative power shall be vested into two house: the House of Representativ
 
 ### Section 1
 
-The House of Representatives will be comprised of representatives proportional to the amount of people currently residing in the FRD, and elected every 2 weeks by the people of each state.
+The House of Representatives will be comprised of representatives proportional to the amount of registered citizens currently legally residing in the FRD, and elected every 2 weeks by the people of each state.
 
 The actual enumeration of the people living therein will be completed within 4 weeks of the first session of Congress, and will be recounted every 6 weeks. Until the actual enumeration, there will be 1 representative for every 2 people in each state. The legislature of each state will be tasked with drawing the actual map based on the population therein. The state legislatures shall have the power to divide their members into any districts as they see fit, given that these groups do not violate any other section of this constitution.
 
@@ -18,7 +18,7 @@ The House of Representatives shall have the sole power of impeachment, which may
 
 ### Section 2
 
-The Senate shall be composed of 2 senators for each of the several states, elected every 6 weeks by the people of each state.
+The Senate shall be composed of 2 senators for each of the states in the union, elected every 6 weeks by the people of each state.
 
 Immediately following the first election to the Senate, the senators will be divided into 3 groups at random. The 1st group shall serve for 2 weeks, the 2nd shall serve for 4 weeks, and the 3rd shall serve for 6 weeks. After these terms, the standard 6 week term will come into effect.
 
@@ -32,7 +32,7 @@ The Senate shall have the power to try all impeachment, and when they are sittin
 
 ### Section 3
 
-The manner in which elections be conducted shall be decided by the States and the legislatures therein, granted that these elections do not violate any other provision of this constitution.
+The manner in which elections be conducted shall be decided by the States in the union and the legislatures therein, granted that these elections do not violate any other provision of this constitution.
 
 Congress shall meet at least once a week on Wednesday, or another day as prescribed by law or resolution.
 
