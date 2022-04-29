@@ -24,9 +24,9 @@ Immediately following the first election to the Senate, the senators will be div
 
 No person who has not been a citizen of the FRD for at least 8 weeks, who does not currently reside in the state they would represent, who has been convicted of a high crime or misdemeanor, or barred from office by a federal court shall be a senator.
 
-The Vice President will be the Speaker of the Senate but will have no vote unless they be equally divided.
+The Vice-President will be the President of the Senate but will have no vote unless they be equally divided.
 
-The Senate shall choose its officers, and a Speaker pro tempore, who shall serve as the Speaker when the Vice President is not present.
+The Senate shall choose its officers, and a President pro tempore, who shall serve as the President when the Vice President is not present.
 
 The Senate shall have the power to try all impeachment, and when they are sitting for this purpose, they shall do so under oath. When the President or Vice President is being tried, the Chief Justice of the FRD will preside. With 2/3rds concurrence of all senators, the officer will be convicted. Conviction by the Senate will result in the removal of the officer from office. On conviction, the Senate may also choose to disqualify the officer from being able to again hold federal office.
 
@@ -102,11 +102,38 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 
 ## Article II.
 
-reserved for executive
+### Section 1
+
+The executive power of the FRD will be vested into the President of the FRD, who alongside the Vice-President, shall serve up to 2 non-consecutive terms. They will be elected as follows:
+
+Each State, in a manner determined by the Legislature therein, a number of electors, determined by the number of combined Representatives and Senators representing the people of the State; but no one who holds any civil office or position wielding the authority of the FRD may be selected as an elector.
+
+The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the FRD, directed to the President of the Senate;  the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; An objection to the votes may only be made with the concurrence of 2 members from the House of Representatives, 1 Senator from the State where the votes originated, and the Legislature of any State. If an objection is successfully made, the Houses shall convene separately, and the objection will be sustained with 2/3rds concurrence of both Houses;  The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the second day following the election, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President. The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the FRD.
+
+The President and Vice-President's terms will begin the Tuesday following the election at noon, and at this time the term of the previous President and Vice-President will end.
+
+No person who has not been a Citizen of the FRD for at least 10 weeks may be the President, nor anyone who holds any other civil office under the FRD.
+
+Congress may pass a law describing the exact line of succession, should the President be forced out of office by natural or artificial means. The Vice-President however, must be the first in line after the President.
+
+### Section 2
+
+The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. Confirmations of judges of the Supreme Court must have the concurrence of 2/3rds of the Senate for approval to be granted.
+
+The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session. 
+
+### Section 3
+
+The President shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the FRD .
+
+### Section 4
+
+The President, Vice President and all civil Officers of the FRD, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors. 
+
 
 ## Article III.
 
-The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by 2/3rds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a justice. The President must appoint a new justice no later than 5 days before a justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
+The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by 2/3rds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a new justice. The President must appoint a new justice no later than 5 days before the outgoing justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
 
 The 1st Associate Justice will serve 4 weeks, the 2nd for 8 weeks, and the 1st Chief Justice will serve a full 12 week term.
 
