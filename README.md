@@ -114,9 +114,11 @@ The President and Vice-President's terms will begin the Tuesday following the el
 
 No person who has not been a Citizen of the FRD for at least 10 weeks may be the President, nor anyone who holds any other civil office under the FRD.
 
+Congress may pass a law describing the exact line of succession, should the President be forced out of office by natural or artificial means. The Vice-President however, must be the first in line after the President.
+
 ### Section 2
 
-The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
+The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. Confirmations of judges of the Supreme Court must have the concurrence of 2/3rds of the Senate for approval to be granted.
 
 The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session. 
 
@@ -131,7 +133,7 @@ The President, Vice President and all civil Officers of the FRD, shall be remove
 
 ## Article III.
 
-The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by 2/3rds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a justice. The President must appoint a new justice no later than 5 days before a justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
+The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by 2/3rds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a new justice. The President must appoint a new justice no later than 5 days before the outgoing justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
 
 The 1st Associate Justice will serve 4 weeks, the 2nd for 8 weeks, and the 1st Chief Justice will serve a full 12 week term.
 
@@ -146,3 +148,7 @@ Congress shall have to power to create lesser courts, subject to the same limita
 ## Article V.
 
 The Congress, whenever two thirds of both houses shall deem it necessary, shall propose amendments to this Constitution, or, on the application of the legislatures of two thirds of the several states, shall call a convention for proposing amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by the legislatures of three fourths of the several states, or by conventions in three fourths thereof, as the one or the other mode of ratification may be proposed by the Congress; and that no state, without its consent, shall be deprived of its equal suffrage in the Senate.
+
+## Article VI.
+
+
