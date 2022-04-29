@@ -58,7 +58,31 @@ Every Order, Resolution, or Vote to which the Concurrence of the Senate and Hous
 
 ### Section 7
 
-powers of congress
+The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the general Welfare of the Federal Republic of Discordia; but all Duties, Imposts and Excises shall be uniform throughout the Federal Republic of Discordia;
+
+To borrow Money on the credit of the Federal Republic of Discordia;
+
+To regulate Commerce with foreign Nations and among the several States;
+
+To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the Federal Republic of Discordia;
+
+To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;
+
+To provide for the Punishment of counterfeiting the Securities and current Coin of the Federal Republic of Discordia;
+
+To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;
+
+To constitute Tribunals inferior to the supreme Court;
+
+To define and punish Piracies and Felonies committed on Discord, and Offences against the Law of Nations;
+
+To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures;
+
+To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
+
+To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Federal Republic of Discordia, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;—And
+
+To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
 
 ### Section 8
 
@@ -70,8 +94,11 @@ No Title of Nobility shall be granted by the FRD: And no Person holding any Offi
 
 ### Section 9
 
-things the states cannot do
+No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts.
 
+No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the Federal Republic of Discordia; and all such Laws shall be subject to the Revision and Controul of the Congress.
+
+No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
 
 ## Article II
 
