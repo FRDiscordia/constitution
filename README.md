@@ -1,6 +1,6 @@
 # Constitution of The Federal Republic of Discordia
 
-## Article I
+## Article I.
 
 The legislative power shall be vested into two houses: the House of Representatives and the Senate.
 
@@ -82,7 +82,7 @@ To provide for calling forth the Militia to execute the Laws of the Union, suppr
 
 To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Federal Republic of Discordia, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;—And
 
-To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
+To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the Federal Republic of Discordia, or in any Department or Officer thereof.
 
 ### Section 8
 
@@ -100,11 +100,11 @@ No State shall, without the Consent of the Congress, lay any Imposts or Duties o
 
 No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
 
-## Article II
+## Article II.
 
 reserved for executive
 
-## Article III
+## Article III.
 
 The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by 2/3rds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a justice. The President must appoint a new justice no later than 5 days before a justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
 
