@@ -28,7 +28,7 @@ The Vice-President will be the President of the Senate but will have no vote unl
 
 The Senate shall choose its officers, and a President pro tempore, who shall serve as the President when the Vice President is not present.
 
-The Senate shall have the power to try all impeachment, and when they are sitting for this purpose, they shall do so under oath. When the President or Vice President is being tried, the Chief Justice of the FRD will preside. With 2/3rds concurrence of all senators, the officer will be convicted. Conviction by the Senate will result in the removal of the officer from office. On conviction, the Senate may also choose to disqualify the officer from being able to again hold federal office.
+The Senate shall have the power to try all impeachment, and when they are sitting for this purpose, they shall do so under oath. When the President or Vice President is being tried, the Chief Justice of the FRD will preside. With two thirds concurrence of all senators, the officer will be convicted. Conviction by the Senate will result in the removal of the officer from office. On conviction, the Senate may also choose to disqualify the officer from being able to again hold federal office.
 
 ### Section 3
 
@@ -118,7 +118,7 @@ Congress may pass a law describing the exact line of succession, should the Pres
 
 ### Section 2
 
-The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. Confirmations of judges of the Supreme Court must have the concurrence of 2/3rds of the Senate for approval to be granted.
+The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. Confirmations of judges of the Supreme Court must have the concurrence of two thirds of the Senate for approval to be granted.
 
 The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session. 
 
