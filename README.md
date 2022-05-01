@@ -8,7 +8,7 @@ The legislative power shall be vested into two houses: the House of Representati
 
 The House of Representatives will be comprised of representatives proportional to the number of citizens currently residing in the FRD, and elected every 2 weeks by the people of each state.
 
-The actual enumeration of the people living therein will be completed within 4 weeks of the first session of Congress and will be recounted every 6 weeks. Until the actual enumeration, there will be 1 representative for every 2 people in each state. The legislature of each state will be tasked with drawing the actual map based on the population therein. The state legislatures shall have the power to divide their members into any districts as they see fit, given that these groups do not violate any other section of this constitution.
+The actual enumeration of the people living therein will be completed within 4 weeks of the first session of Congress and will be recounted every 6 weeks. Until the actual enumeration, there will be 1 representative for every 2 people in each state. The legislature of each state will be tasked with drawing the actual map based on the population therein. The state legislatures shall have the power to divide their members into any districts as they see fit, given that these groups do not violate any other section of this constitution, and that the number of citizens residing in each district be equal to the number in the other districts.
 
 No person who has not been a citizen of the FRD for at least 4 weeks, who does not currently reside in the district they would represent, who has been convicted of a high crime or misdemeanor, or barred from office by a federal court shall be a representative.
 
