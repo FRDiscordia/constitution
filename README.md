@@ -147,7 +147,17 @@ Congress shall have to power to create lesser courts, subject to the same limita
 
 ## Article IV.
 
-...
+### Section 1
+
+Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.
+
+### Section 2
+
+The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.
+
+### Section 3
+
+The FRD shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
 
 ## Article V.
 
@@ -173,4 +183,4 @@ This Constitution will come into effect once three fourths of the states present
 
 ## Article VIII.
 
-New States may from time-to-time apply to join the Union. In order for a new State to be established, there must be 5 persons who sign a petition of Statehood. Once a petition is signed, a convention must be held by its citizens to draft a State Constitution. Once this constitution has been ratified by the people therein, it may be submitted to Congress for approval. With two thirds concurrence in both Houses, the State shall be admitted into the Union, with all the powers vested into the other several States.
+New States may from time-to-time apply to join the Union. In order for a new State to be established, there must be 5 persons who sign a petition of Statehood, or a number of petitioners are set by a law passed by Congress. Once a petition is signed, a convention must be held by its citizens to draft a State Constitution. Once this constitution has been ratified by the people therein, it may be submitted to Congress for approval. With two thirds concurrence in both Houses, the State shall be admitted into the Union, with all the powers vested into the other several States.
