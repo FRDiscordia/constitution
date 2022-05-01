@@ -16,7 +16,7 @@ The House of Representatives shall choose its officers.
 
 The House of Representatives shall have the sole power of impeachment, which may be used against an official of another branch in cases of high crimes and/or misdemeanors.
 
-In the case of a vacancy in the House of Representative, the executive authority of the State whose Representative is no longer in office shall have the power to issue writs of Election to fill said vacancies for the remainder of the term.
+In the case of a vacancy in the House of Representatives, the executive authority of the State whose Representative is no longer in office shall have the power to issue writs of Election to fill said vacancies for the remainder of the term.
 
 ### Section 2
 
@@ -26,7 +26,7 @@ Immediately following the first election to the Senate, the senators will be div
 
 No person who has not been a citizen of the FRD for at least 8 weeks, who does not currently reside in the state they would represent, who has been convicted of a high crime or misdemeanor, or barred from office by a federal court shall be a senator.
 
-The Vice-President will be the President of the Senate but will have no vote unless they be equally divided.
+The Vice-President will be the President of the Senate but will have no vote unless they are equally divided.
 
 The Senate shall choose its officers, and a President pro tempore, who shall serve as the President when the Vice President is not present.
 
@@ -62,13 +62,13 @@ Every Order, Resolution, or Vote to which the Concurrence of the Senate and Hous
 
 ### Section 7
 
-The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the general Welfare of the Federal Republic of Discordia; but all Duties, Imposts and Excises shall be uniform throughout the Federal Republic of Discordia;
+The Congress shall have Power To lay and collect Taxes, Duties, Imposts, and Excises, to pay the Debts and provide for the general Welfare of the Federal Republic of Discordia; but all Duties, Imposts, and Excises shall be uniform throughout the Federal Republic of Discordia;
 
 To borrow Money on the credit of the Federal Republic of Discordia;
 
 To regulate Commerce with foreign Nations and among the several States;
 
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the Federal Republic of Discordia;
+To establish a uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the Federal Republic of Discordia;
 
 To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;
 
@@ -76,13 +76,13 @@ To provide for the Punishment of counterfeiting the Securities and current Coin 
 
 To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;
 
-To constitute Tribunals inferior to the supreme Court;
+To constitute Tribunals inferior to the Supreme Court;
 
 To define and punish Piracies and Felonies committed on Discord, and Offences against the Law of Nations;
 
 To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures;
 
-To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
+To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections, and repel Invasions;
 
 To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the Federal Republic of Discordia, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;—And
 
@@ -100,7 +100,7 @@ No Title of Nobility shall be granted by the FRD: And no Person holding any Offi
 
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts.
 
-No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the Federal Republic of Discordia; and all such Laws shall be subject to the Revision and Controul of the Congress.
+No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the Federal Republic of Discordia; and all such Laws shall be subject to the Revision and Control of the Congress.
 
 No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
 
@@ -112,27 +112,27 @@ The executive power of the FRD will be vested into the President of the FRD, who
 
 Each State, in a manner determined by the Legislature therein, a number of electors, determined by the number of combined Representatives and Senators representing the people of the State; but no one who holds any civil office or position wielding the authority of the FRD may be selected as an elector.
 
-The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the FRD, directed to the President of the Senate; the manner in which the State votes must not disenfranchise the will of the people living therein; the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; An objection to the votes may only be made with the concurrence of 2 members from the House of Representatives, 1 Senator from the State where the votes originated, and the Legislature of any State. If an objection is successfully made, the Houses shall convene separately, and the objection will be sustained with two thirds concurrence of both Houses;  The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the second day following the election, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President. The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the FRD.
+The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the FRD, directed to the President of the Senate; the manner in which the State votes must not disenfranchise the will of the people living therein; the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; An objection to the votes may only be made with the concurrence of 2 members from the House of Representatives, 1 Senator from the State where the votes originated, and the Legislature of any State. If an objection is successfully made, the Houses shall convene separately, and the objection will be sustained with two thirds concurrence of both Houses;  The person having the greatest number of votes for President, shall be the President if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the second day following the election, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President. The person having the greatest number of votes as Vice-President, shall be the Vice-President if such number be a majority of the whole number of Electors appointed, and if no person has a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the FRD.
 
 The President and Vice-President's terms will begin the Tuesday following the election at noon, and at this time the term of the previous President and Vice-President will end.
 
 No person who has not been a Citizen of the FRD for at least 10 weeks may be the President, nor anyone who holds any other civil office under the FRD.
 
-Congress may pass a law describing the exact line of succession, should the President be forced out of office by natural or artificial means. The Vice-President however, must be the first in line after the President.
+Congress may pass a law describing the exact line of succession, should the President be forced out of office by natural or artificial means. The Vice-President, however, must be the first in line after the President.
 
 ### Section 2
 
-The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. Confirmations of judges of the Supreme Court must have the concurrence of two thirds of the Senate for approval to be granted.
+The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the FRD, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments. Confirmations of judges of the Supreme Court must have the concurrence of two thirds of the Senate for approval to be granted.
 
-The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session. 
+The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions that shall expire at the End of their next Session. 
 
 ### Section 3
 
-The President shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the FRD .
+The President shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the FRD.
 
 ### Section 4
 
-The President, Vice President and all civil Officers of the FRD, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors. 
+The President, Vice President, and all civil Officers of the FRD shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors. 
 
 ## Article III.
 
@@ -148,7 +148,7 @@ Congress shall have to power to create lesser courts, subject to the same limita
 
 ### Section 1
 
-Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.
+Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records, and Proceedings shall be proved, and the Effect thereof.
 
 ### Section 2
 
@@ -156,7 +156,7 @@ The Citizens of each State shall be entitled to all Privileges and Immunities of
 
 ### Section 3
 
-The FRD shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
+The FRD shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion, and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
 
 ## Article V.
 
@@ -172,11 +172,11 @@ The Senators and Representatives before mentioned, and the Members of the severa
 
 ### Section 2
 
-Any person present in the Federal Republic of Discordia at the time of ratification of this Constitution shall be citizens, and shall be eligible for all offices established herein, regardless of the citizenship time requirement.
+Any person present in the Federal Republic of Discordia at the time of ratification of this Constitution shall be citizens and shall be eligible for all offices established herein, regardless of the citizenship time requirement.
 
 If no citizens are eligible for office, then any citizens who are barred from office by term limit shall be given one additional term of eligibility.
 
-If there are not enough citizens in a state to have 3 or more different members of congress, than one person may serve as all three until there are enough members, when the other member shall become a member of congress.
+If there are not enough citizens in a state to have 3 or more different members of congress, then one person may serve as all three until there are enough members, when the other member shall become a member of congress.
 
 ## Article VII.
 
