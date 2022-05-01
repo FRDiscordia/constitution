@@ -16,6 +16,8 @@ The House of Representatives shall choose its officers.
 
 The House of Representatives shall have the sole power of impeachment, which may be used against an official of another branch in cases of high crimes and/or misdemeanors.
 
+In the case of a vacancy in the House of Representative, the executive authority of the State whose Representative is no longer in office shall have the power to issue writs of Election to fill said vacancies for the remainder of the term.
+
 ### Section 2
 
 The Senate shall be composed of 2 senators for each of the states, elected every 6 weeks by the people of each state.
@@ -29,6 +31,8 @@ The Vice-President will be the President of the Senate but will have no vote unl
 The Senate shall choose its officers, and a President pro tempore, who shall serve as the President when the Vice President is not present.
 
 The Senate shall have the power to try all impeachment, and when they are sitting for this purpose, they shall do so under oath. When the President or Vice President is being tried, the Chief Justice of the FRD will preside. With two thirds concurrence of all senators, the officer will be convicted. Conviction by the Senate will result in the removal of the officer from office. On conviction, the Senate may also choose to disqualify the officer from being able to again hold federal office.
+
+In the case of a vacancy in the Senate, the executive authority of the State whose Senator is no longer in office shall have the power to issue writs of Election to fill said vacancies for the remainder of the term.
 
 ### Section 3
 
@@ -133,7 +137,7 @@ The President, Vice President and all civil Officers of the FRD, shall be remove
 
 ## Article III.
 
-The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve only one 12 week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by two thirds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a new justice. The President must appoint a new justice no later than 5 days before the outgoing justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
+The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve a 12-week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by two thirds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a new justice. The President must appoint a new justice no later than 5 days before the outgoing justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
 
 The 1st Associate Justice will serve 4 weeks, the 2nd for 8 weeks, and the 1st Chief Justice will serve a full 12 week term.
 
@@ -151,10 +155,22 @@ The Congress, whenever two thirds of both houses shall deem it necessary, shall 
 
 ## Article VI.
 
+### Section 1
+
 This Constitution, and the Laws of the Federal Republic of Discordia which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the FRD, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.
 
 The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the Federal Republic of Discordia and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the FRD.
 
+### Section 2
+
+Any person present in the Federal Republic of Discordia at the time of ratification of this Constitution shall be citizens, and shall be eligible for all offices established herein, regardless of the citizenship time requirement.
+
+If no citizens are eligible for office, then any citizens who are barred from office by term limit shall be given one additional term of eligibility.
+
 ## Article VII.
 
 This Constitution will come into effect once three fourths of the states present at the signing of the constitution ratify this constitution. Immediately following this, elections will be held for the offices of Representative and Senator. After 2 days, the election for President of the FRD will be held.
+
+## Article VIII.
+
+New States may from time-to-time apply to join the Union. In order for a new State to be established, there must be 5 persons who sign a petition of Statehood. Once a petition is signed, a convention must be held by its citizens to draft a State Constitution. Once this constitution has been ratified by the people therein, it may be submitted to Congress for approval. With two thirds concurrence in both Houses, the State shall be admitted into the Union, with all the powers vested into the other several States.
