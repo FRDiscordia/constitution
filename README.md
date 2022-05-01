@@ -179,8 +179,23 @@ If no citizens are eligible for office, then any citizens who are barred from of
 
 ## Article VII.
 
-This Constitution will come into effect once three fourths of the states present at the signing of the constitution ratify this constitution. Immediately following this, elections will be held for the offices of Representative and Senator. After 2 days, the election for President of the FRD will be held.
+New States may from time-to-time apply to join the Union. In order for a new State to be established, there must be 5 persons who sign a petition of Statehood, or a number of petitioners set by a law passed by Congress. Once a petition is signed, a convention must be held by its citizens to draft a State Constitution. Once this constitution has been ratified by the people therein, it may be submitted to Congress for approval. With two thirds concurrence in both Houses, the State shall be admitted into the Union, with all the powers vested into the other several States.
 
 ## Article VIII.
 
-New States may from time-to-time apply to join the Union. In order for a new State to be established, there must be 5 persons who sign a petition of Statehood, or a number of petitioners set by a law passed by Congress. Once a petition is signed, a convention must be held by its citizens to draft a State Constitution. Once this constitution has been ratified by the people therein, it may be submitted to Congress for approval. With two thirds concurrence in both Houses, the State shall be admitted into the Union, with all the powers vested into the other several States.
+This Constitution will come into effect once three fourths of the states present at the signing of the constitution ratify this constitution. Immediately following this, elections will be held for the offices of Representative and Senator. After 2 days, the election for President of the FRD will be held.
+
+As done in Convention by Unanimous consent granted by the States present, on the day May first, two thousand and twenty-two. In witness whereof, we have hereunto inscribed our names
+
+
+
+FerrisLand
+
+
+Nova Judea
+
+
+gooseland
+
+
+
