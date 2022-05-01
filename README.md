@@ -157,4 +157,4 @@ The Senators and Representatives before mentioned, and the Members of the severa
 
 ## Article VII.
 
-This Constitution will come into effect once three fourths of the original states ratify this constitution. Immediately following this, elections will be held for the offices of Representative and Senator. After 2 days, the election for President of the FRD will be held.
+This Constitution will come into effect once three fourths of the states present at the signing of the constitution ratify this constitution. Immediately following this, elections will be held for the offices of Representative and Senator. After 2 days, the election for President of the FRD will be held.
