@@ -134,7 +134,6 @@ The President shall from time to time give to the Congress Information of the St
 
 The President, Vice President and all civil Officers of the FRD, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors. 
 
-
 ## Article III.
 
 The judicial power of the FRD will be vested into one Supreme Court comprised of 3 justices: 1 chief justice and 2 associate justices. Each justice will serve a 12-week term and will serve during good behavior. Each justice will be nominated by the President, then confirmed by two thirds of the Senate. A justice will remain on the court past the expiration of their term if the Senate has not confirmed a new justice. The President must appoint a new justice no later than 5 days before the outgoing justice's term expires. If the President fails to appoint a justice, the person next in the line of succession besides the vice president will appoint a new justice.
@@ -176,6 +175,8 @@ The Senators and Representatives before mentioned, and the Members of the severa
 Any person present in the Federal Republic of Discordia at the time of ratification of this Constitution shall be citizens, and shall be eligible for all offices established herein, regardless of the citizenship time requirement.
 
 If no citizens are eligible for office, then any citizens who are barred from office by term limit shall be given one additional term of eligibility.
+
+If there are not enough citizens in a state to have 3 or more different members of congress, than one person may serve as all three until there are enough members, when the other member shall become a member of congress.
 
 ## Article VII.
 
