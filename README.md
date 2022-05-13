@@ -188,7 +188,9 @@ This Constitution will come into effect once three fourths of the states present
 
 As done in Convention by Unanimous consent granted by the States present, on the day May first, two thousand and twenty-two. In witness whereof, we have hereunto inscribed our names
 
+## Article IX.
 
+Shalt any indiviual named “Pumpkin” be automatically sentenced to prision for 260 life sentences plus 9,300 years parole.
 
 #### FerrisLand
 hydrostaticcog
@@ -198,5 +200,3 @@ Pumpkin
 
 #### gooseland
 goose
-
-
